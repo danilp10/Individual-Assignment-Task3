@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,test/algorithms/TestMatrixMultiplication.benchmarkBasicMatrixMult
+inline,test/algorithms/TestMatrixMultiplication.benchmarkParallelMatrixMult
+inline,test/algorithms/TestMatrixMultiplication.benchmarkVectorizedMatrixMult
+inline,test/algorithms/TestMatrixMultiplication.setup
+inline,test/algorithms/TestMatrixMultiplication.tearDown
